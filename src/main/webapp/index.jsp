@@ -1,6 +1,6 @@
 <html>
-<body>
+<body style="background-color: blue;">
 <h2>Hello World!</h2>
-<h6>Welcome to Jenkins Automation</h6>
+<h3>Welcome to Jenkins Automation</h3>
 </body>
 </html>
